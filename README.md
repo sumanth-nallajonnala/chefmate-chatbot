@@ -160,7 +160,7 @@ SPOONACULAR_API_KEY=your_api_key_here
 
 ## 📄 License
 
-This project is built for academic purposes under the NLP course (CSE405R02).
+This project is for learning purposes. Feel free to use it!
 
 ---
 
@@ -170,3 +170,16 @@ This project is built for academic purposes under the NLP course (CSE405R02).
 - [Flask](https://flask.palletsprojects.com/) — Python web framework
 - [Google Fonts](https://fonts.google.com/) — Playfair Display & DM Sans
 - [Render](https://render.com/) — Free cloud deployment
+
+---
+
+## 👨‍💻 Author
+
+**Your Name**
+
+- GitHub: https://github.com/sumanth-nallajonnala
+- Email: sumanth.nljna@gmail.com
+
+---
+
+Made with ❤️ by Sumanth Nallajonnala...
