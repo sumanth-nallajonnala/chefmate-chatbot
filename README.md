@@ -2,30 +2,6 @@
 
 > A conversational recipe assistant that suggests dishes based on ingredients you have and your dietary preferences, powered by the Spoonacular API.
 
----
-
-## 📌 Project Info
-
-| Field           | Details                                      |
-| --------------- | -------------------------------------------- |
-| **Subject**     | Natural Language Processing (CSE405R02)      |
-| **Assignment**  | Internal Marks – Chatbot Creation (10 marks) |
-| **Topic**       | Recipe Suggestion Chatbot                    |
-| **Institution** | III-IT-M                                     |
-| **Guide**       | Dr. Sumathi M                                |
-| **Due Date**    | 20 April 2026                                |
-
----
-
-## 👥 Team Members
-
-| Name     | Registration Number |
-| -------- | ------------------- |
-| Member 1 | XXXXXXXX            |
-| Member 2 | XXXXXXXX            |
-
----
-
 ## 🌐 Live Demo
 
 🔗 [https://chefmate-chatbot.onrender.com](https://chefmate-chatbot.onrender.com)
