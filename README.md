@@ -158,9 +158,19 @@ SPOONACULAR_API_KEY=your_api_key_here
 
 ---
 
-## 📄 License
+## 🚀 Further Improvements
 
-This project is for learning purposes. Feel free to use it!
+While the current version of ChefMate is fully functional, several enhancements can be made in future iterations.
+
+On the **NLP side**, the rule-based ingredient parser can be replaced with a proper NLP library like spaCy for better accuracy in understanding natural language input, handling plurals, typos, and complex sentence structures. Conversational memory can also be added so the chatbot remembers context across multiple messages within a session.
+
+On the **features side**, a step-by-step cooking mode with built-in timers, a weekly meal planner, recipe bookmarking, ingredient substitution suggestions, and portion scaling based on serving size would significantly improve the user experience.
+
+For **personalisation**, user login and profile support can be added to store dietary preferences, allergies, and favourite recipes permanently across sessions. A nutritional goal filter such as high protein or low carb would help health-conscious users get more targeted suggestions.
+
+On the **technical side**, integrating a database like SQLite or PostgreSQL would allow persistent storage of user data and search history. Caching frequent API responses using Redis would reduce API call usage and improve response speed. A voice input feature using the Web Speech API and an ingredient photo detection feature using a vision API would make the chatbot more accessible and intuitive to use.
+
+Finally, converting ChefMate into a **Progressive Web App (PWA)** would allow users to install it on their phones and use it offline — making it feel like a native mobile cooking assistant.
 
 ---
 
@@ -170,6 +180,12 @@ This project is for learning purposes. Feel free to use it!
 - [Flask](https://flask.palletsprojects.com/) — Python web framework
 - [Google Fonts](https://fonts.google.com/) — Playfair Display & DM Sans
 - [Render](https://render.com/) — Free cloud deployment
+
+---
+
+## 📄 License
+
+This project is for learning purposes. Feel free to use it!
 
 ---
 
