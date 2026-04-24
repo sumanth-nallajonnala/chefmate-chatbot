@@ -1,25 +1,25 @@
-# 🍳 ChefMate — AI-Powered Recipe Suggestion Chatbot
+# ChefMate — AI-Powered Recipe Suggestion Chatbot
 
 > A conversational recipe assistant that suggests dishes based on ingredients you have and your dietary preferences, powered by the Spoonacular API.
 
-## 🌐 Live Demo
+##  Live Demo
 
 🔗 [https://chefmate-chatbot.onrender.com](https://chefmate-chatbot.onrender.com)
 
 ---
 
-## 💡 Features
+## Features
 
-- 🥕 **Ingredient-based search** — Tell ChefMate what you have, it finds matching recipes
-- 🥗 **Dietary filters** — Supports vegan, vegetarian, gluten-free, and dairy-free preferences
-- 🍽️ **Recipe cards** — Displays image, cook time, servings, and nutrition info
-- 🔴 **Real-time data** — Powered by the Spoonacular Food API (live recipe database)
-- 💬 **Conversational UI** — Natural language input, no structured commands needed
-- ✨ **Animated interface** — Food-themed floating background, smooth message animations
+-  **Ingredient-based search** — Tell ChefMate what you have, it finds matching recipes
+-  **Dietary filters** — Supports vegan, vegetarian, gluten-free, and dairy-free preferences
+-  **Recipe cards** — Displays image, cook time, servings, and nutrition info
+-  **Real-time data** — Powered by the Spoonacular Food API (live recipe database)
+-  **Conversational UI** — Natural language input, no structured commands needed
+-  **Animated interface** — Food-themed floating background, smooth message animations
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Layer               | Technology                                             |
 | ------------------- | ------------------------------------------------------ |
@@ -32,7 +32,7 @@
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 chefmate-chatbot/
@@ -54,7 +54,7 @@ chefmate-chatbot/
 
 ---
 
-## ⚙️ How It Works
+## How It Works
 
 ```
 User Input (natural language)
@@ -75,7 +75,7 @@ User Input (natural language)
 
 ---
 
-## 🚀 Local Setup
+##  Local Setup
 
 ### Prerequisites
 
@@ -110,7 +110,7 @@ Then open **http://localhost:5000** in your browser.
 
 ---
 
-## 🧪 Sample Inputs to Test
+##  Sample Inputs to Test
 
 | Input                                         | Expected Output          |
 | --------------------------------------------- | ------------------------ |
@@ -121,7 +121,7 @@ Then open **http://localhost:5000** in your browser.
 
 ---
 
-## 📦 Dependencies
+## Dependencies
 
 ```
 flask
@@ -132,7 +132,7 @@ gunicorn
 
 ---
 
-## 🔑 Environment Variables
+##  Environment Variables
 
 | Variable              | Description                       |
 | --------------------- | --------------------------------- |
@@ -146,9 +146,9 @@ SPOONACULAR_API_KEY=your_api_key_here
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
-### 🏠 Welcome Screen
+###  Welcome Screen
 
 ![ChefMate Home](screenshots/home.png)
 
@@ -158,7 +158,7 @@ SPOONACULAR_API_KEY=your_api_key_here
 
 ---
 
-## 🚀 Further Improvements
+## Further Improvements
 
 While the current version of ChefMate is fully functional, several enhancements can be made in future iterations.
 
@@ -174,7 +174,7 @@ Finally, converting ChefMate into a **Progressive Web App (PWA)** would allow us
 
 ---
 
-## 🙏 Acknowledgements
+##  Acknowledgements
 
 - [Spoonacular API](https://spoonacular.com/food-api) — Recipe and nutrition data
 - [Flask](https://flask.palletsprojects.com/) — Python web framework
@@ -183,15 +183,15 @@ Finally, converting ChefMate into a **Progressive Web App (PWA)** would allow us
 
 ---
 
-## 📄 License
+##  License
 
 This project is for learning purposes. Feel free to use it!
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
-**Your Name**
+**SumanthNallajonnala**
 
 - GitHub: https://github.com/sumanth-nallajonnala
 - Email: sumanth.nljna@gmail.com
